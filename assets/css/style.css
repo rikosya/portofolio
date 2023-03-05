@@ -278,8 +278,7 @@ h6 {
 
 @media (max-width: 768px) {
   #hero h1 {
-    font-size: 28px;
-    line-height: 36px;
+    font-size: 80px;
   }
 
   #hero h2 {
@@ -685,7 +684,7 @@ section {
 .services .icon-box {
   margin-bottom: 20px;
 }
-
+.justify { text-align: justify;}
 .services .icon {
   float: left;
   display: flex;
